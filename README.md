@@ -1,1 +1,6 @@
-# sulimo_rek_16_02_2018
+##sql
+
+database: sulimo;
+user: root;
+pass: 
+
